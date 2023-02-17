@@ -1,0 +1,17 @@
+{
+    "name": "apari/bienesraices",
+    "description": "Creando un proyecto con POO",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Apari\\Bienesraices\\": "classes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nataly Aparicio",
+            "email": "natalyaparicio@gmail.com"
+        }
+    ],
+    "require": {}
+}
